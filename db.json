@@ -204,15 +204,6 @@
             "info": "Electric Warrior is the second studio album by English rock band T. Rex, released in 1971. The album marked a significant turning point in the band's sound, transitioning from their earlier folk rock style to a more glam rock sound. Electric Warrior features iconic tracks such as 'Bang a Gong (Get It On)' and 'Jeepster,' which became anthems of the glam rock era. With its catchy hooks and innovative production, Electric Warrior helped define the glam rock genre and influenced countless artists."
         },
         {
-            "id": 26,
-            "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
-            "artist": "David Bowie",
-            "release_date": "1972-06-06",
-            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/fa/56/5ffa56c2-ea1f-7a17-6bad-192ff9b6476d/825646124206.jpg/600x600bb.jpg",
-            "genre": "Glam Rock",
-            "info": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars is the fifth studio album by English musician David Bowie, released in 1972. The album is a concept album that tells the story of Ziggy Stardust, a fictional rock star who acts as a messenger for extraterrestrial beings. With its glam rock sound and theatrical persona, Ziggy Stardust became one of Bowie's most iconic and influential albums. It includes classic tracks such as 'Starman,' 'Suffragette City,' and 'Rock 'n' Roll Suicide.'"
-        },
-        {
             "id": 27,
             "title": "Harvest",
             "artist": "Neil Young",
@@ -373,15 +364,6 @@
             "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/74/c1/73/74c17380-b75d-4d74-31d8-99f8e8b20c36/17UM1IM27905.rgb.jpg/600x600bb.jpg",
             "genre": "Disco",
             "info": "Saturday Night Fever is the soundtrack album to the 1977 film of the same name, featuring songs performed by the Bee Gees and various artists. It is one of the best-selling albums of all time and played a significant role in popularizing disco music worldwide. Saturday Night Fever includes hit singles such as 'Stayin' Alive,' 'Night Fever,' and 'How Deep Is Your Love,' all of which became emblematic of the disco era. The album's success contributed to the cultural phenomenon surrounding the film and disco music in the late 1970s."
-        },
-        {
-            "id": 46,
-            "title": "Rumours",
-            "artist": "Fleetwood Mac",
-            "release_date": "1977-02-04",
-            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/600x600bb.jpg",
-            "genre": "Pop Rock",
-            "info": "Rumours is the eleventh studio album by British-American rock band Fleetwood Mac, released in 1977. It is one of the best-selling albums of all time, known for its melodic pop-rock sound and emotional lyrics. Rumours features hit singles such as 'Go Your Own Way,' 'Dreams,' and 'Don't Stop,' all of which became enduring classics. The album explores themes of love, heartbreak, and relationships, reflecting the tumultuous personal dynamics within the band at the time. Rumours received widespread critical acclaim and commercial success, winning the Grammy Award for Album of the Year."
         },
         {
             "id": 47,
